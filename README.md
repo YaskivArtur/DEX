@@ -2,6 +2,7 @@
 - Node version: 16
 - Browser: Chrome / Brave / FireFox / Safari
   
+
 # How can you install & deploy this plaform?
 1. npm install --legacy-peer-deps
 2. npm run start
